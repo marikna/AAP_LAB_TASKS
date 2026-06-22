@@ -1,0 +1,36 @@
+{
+  "timestamp": "2026-06-22T14:02:14.590075",
+  "dataset": "imdb",
+  "results": {
+    "no_nulls": {
+      "passed": true,
+      "severity": "error",
+      "details": null
+    },
+    "labels_in_set": {
+      "passed": true,
+      "severity": "error",
+      "details": null
+    },
+    "min_word_count": {
+      "passed": true,
+      "severity": "warning",
+      "details": null
+    },
+    "max_word_count": {
+      "passed": true,
+      "severity": "warning",
+      "details": null
+    },
+    "no_duplicates": {
+      "passed": false,
+      "severity": "warning",
+      "details": null
+    },
+    "class_balance": {
+      "passed": false,
+      "severity": "warning",
+      "details": "1"
+    }
+  }
+}
